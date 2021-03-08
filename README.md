@@ -8,7 +8,7 @@ This script will show the implementation of classical EMD algorithm. For other k
 
 ![PyPI](https://img.shields.io/pypi/v/emd?color=red&label=emd)
 
-### Instalation
+### Installation
 
 To install emd package, insert the command:
 > pip install emd
