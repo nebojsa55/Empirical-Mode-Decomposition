@@ -2,13 +2,11 @@
 
 <img src="https://github.com/nebojsa55/Empirical-Mode-Decomposition/blob/master/doc/emd_gif.gif" width="600" height="400"/>
 
-
-
 An example and introduction to EMD (Empirical mode decomposition) algorithm. EMD is the basis for [HHT](https://en.wikipedia.org/wiki/Hilbert%E2%80%93Huang_transform) and is very suitable for work with non-stationary signals.
 
 ## Definiton
 
-Empirical Mode Decomposition is a simple iterative process that breaks the signal into components called **intrinsic mode functions (IMF)**. Every IMF contains the highest frequency of the signal in the previous iteration, thus enabling high-frequency noise rejection. 
+Empirical Mode Decomposition is a simple iterative process that breaks the signal into components called **intrinsic mode functions (IMF)**. Every IMF contains the highest frequency of the signal in the previous iteration, thus enabling high-frequency noise rejection.  
 
 IMF is defined as the function that satisfies the following two requirements:
 
