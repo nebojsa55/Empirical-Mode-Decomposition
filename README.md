@@ -17,7 +17,7 @@ IMF is defined as the function that satisfies the following two requirements:
 
 This script will show the implementation of classical EMD algorithm. For other kinds of EMD, such as ensemble EMD, please refer to:
 
-![PyPI](https://img.shields.io/pypi/v/emd?color=red&label=emd)
+[![PyPI](https://img.shields.io/pypi/v/emd?color=red&label=emd)](https://pypi.org/project/emd/)
 
 ### Installation
 
