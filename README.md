@@ -22,4 +22,6 @@ This script will show the implementation of classical EMD algorithm. For other k
 ### Installation
 
 To install emd package, insert the command:
+```shell
 > pip install emd
+```
